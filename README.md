@@ -4,7 +4,7 @@ by [SukanyaGhosh6](https://github.com/SukanyaGhosh6)
 
 ---
 
-## 🧠 About the Project
+##  About the Project
 
 **Phish-Shield** is a machine learning-powered phishing detection system designed to analyze and classify URLs as either **legitimate** or **phishing**. This project was born from my passion for combining **cybersecurity awareness** with **hands-on machine learning skills**, developed entirely in **Python** using **VS Code** on a Windows machine.
 
@@ -30,7 +30,7 @@ Phishing attacks are among the most prevalent forms of social engineering today,
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset used contains labeled URLs: `phishing` or `legitimate`.  
 You can use [this dataset from Kaggle](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset) or create your own CSV with the following structure:
@@ -54,7 +54,7 @@ Each URL is converted into a numerical feature vector based on patterns like:
 
 ---
 
-## 🧠 Machine Learning Models Used
+##  Machine Learning Models Used
 
 - Logistic Regression  
 - Random Forest Classifier  
@@ -66,7 +66,7 @@ Each model was trained and evaluated for **accuracy**, **precision**, **recall**
 
 ---
 
-## 🧪 Sample Code Workflow
+##  Sample Code Workflow
 
 ```python
 # Load and preprocess dataset
@@ -89,7 +89,7 @@ print(classification_report(y_test, predictions))
 
 ---
 
-## 📈 Results
+##  Results
 
 - Accuracy ranged from **85% to 96%**, depending on the model.
 - Random Forest and SVM yielded the best performance.
