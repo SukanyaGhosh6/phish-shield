@@ -131,7 +131,7 @@ print(classification_report(y_test, predictions))
 ##  References
 
 - [Scikit-learn Documentation](https://scikit-learn.org/)
-- [Kaggle Phishing Dataset](https://www.kaggle.com/datasets/sid321axn/phishing-site-urls)
+- [Kaggle Phishing Dataset](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset)
 - Research: *Phishing Detection Using Machine Learning Techniques* – IEEE Papers
 
 ---
