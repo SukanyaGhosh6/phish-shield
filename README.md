@@ -35,10 +35,10 @@ Phishing attacks are among the most prevalent forms of social engineering today,
 The dataset used contains labeled URLs: `phishing` or `legitimate`.  
 You can use [this dataset from Kaggle](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset) or create your own CSV with the following structure:
 
-| url                            | label        |
-|-------------------------------|--------------|
-| http://example.com/login      | phishing     |
-| https://google.com            | legitimate   |
+| url                                        | label        |
+|--------------------------------------------|--------------|
+| http://www.crestonwood.com/router.php      | phishing     |
+| https://google.com                         | legitimate   |
 
 ---
 
