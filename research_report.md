@@ -1,11 +1,12 @@
 # Phish-Shield: A Machine Learning Approach to Phishing URL Detection
 
-**Author**: [Sukanya Ghosh](https://github.com/SukanyaGhosh6) 
-
-**License**: MIT 
+**Author**: [Sukanya Ghosh](https://github.com/SukanyaGhosh6)  
+**License**: MIT  
 **Environment**: Python 3.12.4, Windows OS  
 **IDE**: Visual Studio Code  
 **Repository**: [Phish-Shield GitHub](https://github.com/SukanyaGhosh6/phish-shield)
+
+
 
 ---
 
