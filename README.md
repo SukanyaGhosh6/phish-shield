@@ -8,7 +8,7 @@ by [SukanyaGhosh6](https://github.com/SukanyaGhosh6)
 
 **Phish-Shield** is a machine learning-powered phishing detection system designed to analyze and classify URLs as either **legitimate** or **phishing**. This project was born from my passion for combining **cybersecurity awareness** with **hands-on machine learning skills**, developed entirely in **Python** using **VS Code** on a Windows machine.
 
-Phishing attacks are among the most prevalent forms of social engineering today, often using fake URLs to trick users into revealing sensitive data. This project demonstrates how **simple, interpretable features extracted from URLs** — like the presence of symbols, length, or keyword patterns — can be leveraged to train an intelligent system capable of flagging suspicious links.
+Phishing attacks are among the most prevalent forms of social engineering today, often using fake URLs to trick users into revealing sensitive data. This project demonstrates how **simple, interpretable features extracted from URLs** — like the presence of symbols, length, or keyword patterns — can be leveraged to train an intelligent system capable of flagging suspicious links
 
 ---
 
